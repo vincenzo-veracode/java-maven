@@ -8,7 +8,7 @@ An example maven project to demonstrate [srcclr](https://www.srcclr.com) scans.
 brew tap srcclr/srcclr
 brew install srcclr
 srcclr activate
-srcclr scan --url https://github.com/srcclr/example-java-maven
+srcclr scan --url https://github.com/srcclr/example-java-maven 
 ```
 
 ## With SourceClear's Maven Plugin
